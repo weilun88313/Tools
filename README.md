@@ -1,6 +1,12 @@
 ## 混血王子的笔记工具集
 
-You can use the [editor on GitHub](https://github.com/weilun88313/Tools/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+>本文档为公众号「混血王子的笔记」推荐工具，并于 [Github](https://github.com/BPteach/New-Media-Toolbox/blob/master/Toolkits.md) 开源，欢迎大家请 Star、Pull Request或在 [收集&提交页](https://github.com/BPteach/New-Media-Toolbox-Project/issues) 中提交推荐工具。
+
+素材库和工具库在产品挑选上，遵循如下：
+
+1. 所有产品都是推荐者自身使用过的。
+2. 每个类别工具按照推荐度进行排序。
+3. 每个类别工具的数量原则不超过5个。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
