@@ -1,6 +1,6 @@
 ## 混血王子的笔记工具集
 
->本文档为公众号「混血王子的笔记」推荐工具，并于 [Github](https://github.com/BPteach/New-Media-Toolbox/blob/master/Toolkits.md) 开源，欢迎大家请 Star、Pull Request或在 [收集&提交页](https://github.com/BPteach/New-Media-Toolbox-Project/issues) 中提交推荐工具。
+>本文档为公众号「混血王子的笔记」推荐工具，并于 [Github](https://github.com/weilun88313/Tools/blob/master/README.md) 开源，欢迎大家请 Star、Pull Request或在 [收集&提交页](https://github.com/weilun88313/Tools/issues) 中提交推荐工具。
 
 素材库和工具库在产品挑选上，遵循如下：
 
