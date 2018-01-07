@@ -18,40 +18,32 @@
 4. [清博指数](http://www.gsdata.cn/)：专注公众号数据。
 5. [艾瑞指数](http://index.iresearch.com.cn/)：可以查看APP、网站对应的数据情况，方便做渠道投放的评估和竞品研究。
 
-### 原型设计
+### H5设计
 
-1. [墨刀](https://modao.cc/)：国产原型设计工具，支持协同，功能丰富。
-2. [Balsamiq Mockup](https://balsamiq.com/)：操作简单，有在线版和客户端版，非常适合新手。
-3. [InVision](https://www.invisionapp.com/)：在线的原型交互设计工具，页面美观，使用网页和APP原型，操作简单比 Axure 简单。
-4. [Axure PR](https://www.axure.com/)：老牌原型设计软件，适合专业人士，可做模拟交互。
+1. [百度H5](https://h5.bce.baidu.com/)：唯一免费无广告的H5制作平台。
+2. [MAKA](http://maka.im/)：H5模版丰富，上手容易。
+3. [易企秀](http://www.eqxiu.com/)：同Maka差不多，但是设计感稍微差一些。
+4. [ih5](https://www.ih5.cn)：目前中国最强大的H5制作工具，可自定义各种最新的特效，但上手具有一定难度。
 
-###  着陆页制作
+### 网站设计
 
-1. [MAKA](http://www.maka.im/home/index.html)：H5模版丰富，上手容易。
-2. [易企秀](http://www.eqxiu.com/)：同Maka差不多，但是设计感稍微差一些。
-3. [ih5](https://www.ih5.cn)：目前中国最强大的H5制作工具，上手具有一定难度。
-4. [Strikingly](https://www.strikingly.com/?locale=zh-CN)：硅谷的中国团队出品，目前中国最容易上手制作着陆页的工具。
+1. [上线了](https://www.sxl.cn)：免费创建美观强大的网站，无需专业技术知识与设计经验。
 
+### 零技术海报设计
 
-### 图片设计
-
-1. [创客贴](https://www.chuangkit.com/)：国内目前在线设计工具的老大。
-2. [Fortor](https://www.fotor.com.cn/)：全球1.9亿用户的在线快速平面设计平台。
-3. [瓦斯](http://canvas.qq.com/index)：腾讯模仿Canvas做的产品，更适合制作信息图。
-4. [Canvas](https://canvas.cityu.edu.hk/login/ldap)：国外产品，创客贴的原身。
-5. [Powerpoint](https://office.live.com/start/PowerPoint.aspx)：我最喜欢的快速设计工具。
-6. [Sketch](https://www.sketchapp.com/)：仅限Mac，正在逐步替代PS成为主流的UI设计工具。
+1. [创客贴](https://www.chuangkit.com/)：极简的平面设计工具，国内同类产品的龙头。
+2. [Fortor懒设计](https://www.fotor.com.cn/)：全球1.9亿用户的在线快速平面设计平台。
+3. [瓦斯平台](http://canvas.qq.com)：腾讯模仿Canvas做的产品，更适合制作信息图。
 
 ### 图文排版
 
 1. [Markdown Here](http://markdown-here.com/)：公众号最骇客的排版辅助工具。
-2. [秀米](https://xiumi.us/#/)：目前使用量最高的公众号排版工具。
+2. [秀米](https://xiumi.us/)：目前使用量最高的公众号排版工具。
 3. [i排版](http://ipaiban.com/)：同上，但是页面比较乱。
 4. [135编辑器](https://www.135editor.com/)：同上，但是页面比较乱。
 
 ### 视频制作
 
-1. [Spark](https://spark.adobe.com/)：Adobe出品的在线视频制作工具，需要翻墙。
 2. [VUE](http://vue.video/)：快速制作电影级的短视频。
 3. [小影](https://www.xiaoying.tv/)：新媒体短视频创作工具。
 4. [Powtoon](http://www.powtoon.com/)：非常强大的在线动画视频制作工具，就像动画版的PPT工具。
@@ -63,17 +55,11 @@
 - [Camtasia](https://www.techsmith.com/)：Windows 平台最佳录屏工具
 - [Snagit](https://www.techsmith.com/screen-capture.html)：同为 Camtasia 出品，MAC平台录屏工具，操作简便。
 
-### 在线预约
-
-1. [Calendly](https://www.baidu.com/link?url=TPoUzyAClBHjvD4Gv-r87q8oKy0f0ZOmHaRQG_UEl03&wd=&eqid=965708f800010dba000000065974116b)：在线预约系统的Saas工具，可以自动做预约人数的扣除，邮件通知，缺点是全英文，速度一般。
-2. [youcanbook](https://youcanbook.me/)：适合个人教练的预约，可以直接将预约整合到个人日历。
-
 ### 配色工具
 
 1. [Kuler](https://color.adobe.com/create/color-wheel/)：Adobe出品的强大配色工具。
 2. [配色表](http://tool.c7sky.com/webcolor/#character_7)：国内网页设计常用的色彩搭配方案。
 3. [千图配色](http://www.58pic.com/peise/)：配色的小工具比较多
-
 
 ### 公众号辅助
 
@@ -84,29 +70,16 @@
 
 ### 在线表单
 
-1. [麦客](http://www.mikecrm.com/login.php?d=formManager.php)：个人最喜欢的CRM工具。
+1. [麦客](http://www.mikecrm.com/)：个人最喜欢的CRM工具。
 2. [金数据](http://jinshuju.net)：在某些数据管理上功能更强，但是CRM功能弱。
 3. [Typefom](https://www.typeform.com/)：国外优雅至极的表单工具，特别适合做测试题目，用户画像的调研。
-
 
 ### 活动发布
 
 1. [活动行](http://www.huodongxing.com/)：目前国内主流的活动发布工具。
 2. [孤鹿](http://www.grouplus.com/)：社群运营工具，也可以方便的发布活动，进行报名收款。
 
-### 内容电商
-
-1. [有赞](https://www.youzan.com/)：国内最强大的移动电商工具。
-2. [小鹅通](https://www.xiaoe-tech.com/)：主要用户课程电商产品。
-3. [千聊](http://www.qlchat.com/)：语音直播类课程的工具。
-4. [荔枝微课](http://www.lizhiweike.com/)：和千聊差不多，课程裂变分享的功能做的好一些。
-
-### 社群变现
-
-1. [小密圈](https://www.xiaomiquan.com/)：微信社群工具，帮助公众号连接粉丝，通过提问、文章向粉丝收费。
-2. [小社群](https://www.xiaoe-tech.com/)：小鹅通模仿小密圈出品的，如果和课程一块做，可以和小鹅通整合的深一些。
-
-### 邮件营销
+### 邮件营销（EDM）
 
 1. [Mailchimp](https://mailchimp.com/)：最强大的邮件营销工具，但是表单验证需要用户翻墙。
 2. [麦客邮件](http://mikecrm.com/indexMail.php)：国内邮件营销最优秀的工具，整合表单CRM。
@@ -124,7 +97,7 @@
 ### 短网址
 
 1. [六度短网址](http://6du.in/)：带监测功能的短链接工具。
-2. [新浪微博短网址生成器](http://www.waqiang.com/index.php/url)：新浪出品，服务稳定。
+2. [新浪微博短网址生成器](http://sina.lt/)：新浪出品，服务稳定。
 
 
 ### 图床工具
@@ -167,6 +140,6 @@
 
 ## 三、课程篇
 
-1.  [doyoudo](http://www.doyoudo.com/)：国内最精致的设计类视频教程网站之一。
-2.  [跟两米青年学拍视频](https://study.163.com/course/introduction.htm?courseId=1003789010)：跟两米青年学拍视频。新媒体入门拍摄短视频的基础知识，简练有趣。
-3.  [我懂个P【设计大神阿文带你飞】](https://study.163.com/course/courseMain.htm?courseId=1003998027)：著名网黄Simon开发的PPT图文系列教程，每一页都是精品。
+1. [doyoudo](http://www.doyoudo.com/)：国内最精致的设计类视频教程网站之一。
+2. [跟两米青年学拍视频](https://study.163.com/course/introduction.htm?courseId=1003789010)：跟两米青年学拍视频。新媒体入门拍摄短视频的基础知识，简练有趣。
+3. [我懂个P【设计大神阿文带你飞】](https://study.163.com/course/courseMain.htm?courseId=1003998027)：著名网黄Simon开发的PPT图文系列教程，每一页都是精品。
