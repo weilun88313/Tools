@@ -16,6 +16,14 @@
 2. [cloudconvert](https://cloudconvert.com/)：支持更多的格式转换，但稳定性稍差。
 3. [PDF my url](http://pdfmyurl.com/)：有了它，任何网页都可以无失真保存为PDF。
 
+### 电子书资源库
+
+1. [鸠摩搜索](https://www.jiumodiary.com/)：最全的电子书资源站。
+
+### 白噪音工具
+
+1. [Defonic](http://defonic.com/)：在线版的白噪音生成工具，能让自己更容易专注。
+
 ### 数据指数
 
 1. [百度指数](http://link.zhihu.com/?target=http%3A//top.baidu.com/)：很好用的内容选题工具。
@@ -30,6 +38,7 @@
 2. [MAKA](http://maka.im/)：H5模版丰富，上手容易。
 3. [易企秀](http://www.eqxiu.com/)：同Maka差不多，但是设计感稍微差一些。
 4. [ih5](https://www.ih5.cn)：目前中国最强大的H5制作工具，可自定义各种最新的特效，但上手具有一定难度。
+5. [PP匠](http://ppj.io/)：上传PPT，一键生成H5.
 
 ### 网站设计
 
@@ -59,11 +68,11 @@
 
 1. [Apowersoft](https://www.apowersoft.com/)：在线录屏工具，轻量级免安装
 
-### 配色工具
+### 推荐搜索网站
 
-1. [Kuler](https://color.adobe.com/create/color-wheel/)：Adobe出品的强大配色工具。
-2. [配色表](http://tool.c7sky.com/webcolor/#character_7)：国内网页设计常用的色彩搭配方案。
-3. [千图配色](http://www.58pic.com/peise/)：配色的小工具比较多
+1. [即搜](https://deepso.io/)：自定义的聚合搜索工具。
+2. [虫部落 • 快搜](http://search.chongbuluo.com/)：常用网站集合搜索引擎。
+3. [龙轩导航](http://ilxdh.com/)：资源类细分推荐的网站导航
 
 ### 公众号辅助
 
@@ -102,11 +111,19 @@
 
 1. [六度短网址](http://6du.in/)：带监测功能的短链接工具。
 2. [新浪微博短网址生成器](http://sina.lt/)：新浪出品，服务稳定。
-
+3. [linkmoji](http://www.xn--vi8hiv.ws/)：将短链接变成表情符号。
 
 ### 图床工具
 
 1. [极简图床](http://jiantuku.com/#/)：直接拖拽生成图片外链。
+
+### 其余即用即走的办公工具
+
+1. [Processon](https://www.processon.com/)：免费在线制作流程图、思维导图、原型图等。
+2. [WordArt](https://wordart.com/)：文字云制作。
+3. [泼辣修图](www.polaxiong.com/)：轻量级在线修图工具。
+4. [智图](http://zhitu.isux.us/)：腾讯旗下免费的图片压缩工具。
+5. [百度 • 图说](http://tushuo.baidu.com/)：在线制作美观的数据图表。
 
 ## 二、素材篇
 
@@ -148,3 +165,4 @@
 1. [doyoudo](http://www.doyoudo.com/)：国内最精致的设计类视频教程网站之一。
 2. [跟两米青年学拍视频](https://study.163.com/course/introduction.htm?courseId=1003789010)：跟两米青年学拍视频。新媒体入门拍摄短视频的基础知识，简练有趣。
 3. [我懂个P【设计大神阿文带你飞】](https://study.163.com/course/courseMain.htm?courseId=1003998027)：著名网黄Simon开发的PPT图文系列教程，每一页都是精品。
+4. [The Bezier Game】](http://bezier.method.ac/)：刚开始学PS时，总是很难掌握好钢笔工具，这个游戏能帮你更快地上手。
