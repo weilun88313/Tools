@@ -10,6 +10,12 @@
 
 ## 一、工具篇
 
+### 格式转换
+
+1. [Smallpdf](https://smallpdf.com)：十分好用的PDF格式转换工具。
+2. [cloudconvert](https://cloudconvert.com/)：支持更多的格式转换，但稳定性稍差。
+3. [PDF my url](http://pdfmyurl.com/)：有了它，任何网页都可以无失真保存为PDF。
+
 ### 数据指数
 
 1. [百度指数](http://link.zhihu.com/?target=http%3A//top.baidu.com/)：很好用的内容选题工具。
@@ -47,13 +53,11 @@
 2. [VUE](http://vue.video/)：快速制作电影级的短视频。
 3. [小影](https://www.xiaoying.tv/)：新媒体短视频创作工具。
 4. [Powtoon](http://www.powtoon.com/)：非常强大的在线动画视频制作工具，就像动画版的PPT工具。
-5. [爱美刻](https://aimeike.tv/)：在线视频制作工具，基于模版，适合做生活小短片。
+5. [爱剪辑](http://www.aijianji.com/)：傻瓜式视频剪辑工具。
 
 ### 屏幕录制
 
-- [Screenflow](http://www.screenflow.com/)：Mac 平台最强大的录屏工具，可同时录制摄像头和页面操作。
-- [Camtasia](https://www.techsmith.com/)：Windows 平台最佳录屏工具
-- [Snagit](https://www.techsmith.com/screen-capture.html)：同为 Camtasia 出品，MAC平台录屏工具，操作简便。
+1. [Apowersoft](https://www.apowersoft.com/)：在线录屏工具，轻量级免安装
 
 ### 配色工具
 
@@ -115,14 +119,15 @@
 1. [Unslpash](https://unsplash.com/)：大量高清免费商用图片。
 2. [Gratisography](http://www.gratisography.com/)：很有趣的摄影师，作品大胆有趣，容易抓人眼球。
 3. [Pexels](https://www.pexels.com/)：免费可商用高清图库。
+4. [stocksnap](https://stocksnap.io/)：多名摄影师组成的摄影图片素材库，随意使用无需经过授权。
 
 ### 视频素材库
 
-1. [Mazwai](http://mazwai.com/#/videos)：这是我最喜欢的视频库了，主要集中在风景、建筑主题上，虽然没有严格的分类，但是每一段高清素材都是电影级别的质感。
-2. [Pexels](http://videos.pexels.com/)：Pexels 拥有大量的免版权的高清素材库（CC0协议｜不用署名也不用付费），按列别主要分为：动物、街道、山川、延时、模糊、食物、城市、饮料、天空等等。你可以把其中的视频放到官方网站、销售引导页以及任何的商业项目中。虽然东西都是免费，但是质量都是极高的。你可以通过邮件实时订阅他们的素材更新。
+1. [Mazwai](http://mazwai.com/#/videos)：瀑布流视频素材站，无法检索。
+2. [Pexels](http://videos.pexels.com/)：免费可商用视频库。
 3. [Wedistill](http://wedistill.io/)：技术服务公司Create The Bridge的子项目，每10天会上架10段视频，全是免费高清的广告素材。
 4. [Videovo](http://www.videvo.net/)：庞大的素材库，有超过3000的视频素材，除了高清视频素材还有动画素材，相对其他素材站比较好的一点是，你可以根据素材关键字和热门度进行检索。
-5. [Coverr](http://coverr.co/)：Covers 通常每周会上架7个新的视频，视频的分类会比Pexels稍微少一点，但是如果是初创的互联网企业，Tech哪个类别的素材要比Pexels好很多。
+5. [Coverr](http://coverr.co/)：Covers 通常每周会上架7个新的视频，视频的分类会比Pexels稍微少一点。
 
 ### 设计灵感库
 
