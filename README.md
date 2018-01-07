@@ -136,14 +136,12 @@
 ### 图标资源库
 
 1. [iconfont](http://www.iconfont.cn/)：阿里出品的图标库。
-2. [TheNounProject](https://thenounproject.com/)：国外最全的免费图标库，种类丰富。
 
 ### 图片资源库
 
 1. [Unslpash](https://unsplash.com/)：大量高清免费商用图片。
-2. [Gratisography](http://www.gratisography.com/)：高清风格化摄影图库。
-3. [Pond5](https://www.pond5.com/)：图库种类更多，但是部分收费。
-4. [Stock XCHNG](http://cn.freeimages.com/)：同上。
+2. [Gratisography](http://www.gratisography.com/)：很有趣的摄影师，作品大胆有趣，容易抓人眼球。
+3. [Pexels](https://www.pexels.com/)：免费可商用高清图库。
 
 ### 视频素材库
 
@@ -155,8 +153,9 @@
 
 ### 设计灵感库
 
-1. [Behance](https://www.behance.net/)：Behance是作品集平台，重在系统地展示，尤其是系列作品。
-2. [Dribbble](https://dribbble.com/)：dribbble则是一个让设计师发布正在创作中的作品的地方，需要会员邀请才能发布作品，相对Behance种类较少，但是风格更前卫。
+1. [Dribbble](https://dribbble.com/)：dribbble则是一个让设计师发布正在创作中的作品的地方，需要会员邀请才能发布作品，相对Behance种类较少，但是风格更前卫。
+2. [Behance](https://www.behance.net/)：Behance是作品集平台，重在系统地展示，尤其是系列作品。
+3. [花瓣](http://huaban.com/)：国内版的Pinterest
 
 ### 配乐素材库
 
