@@ -116,13 +116,13 @@
 
 1. [极简图床](http://jiantuku.com/#/)：直接拖拽生成图片外链。
 
-### 其余即用即走的办公工具
+### 其它办公神器
 
 1. [Processon](https://www.processon.com/)：免费在线制作流程图、思维导图、原型图等。
 2. [WordArt](https://wordart.com/)：文字云制作。
 3. [泼辣修图](www.polaxiong.com/)：轻量级在线修图工具。
 4. [智图](http://zhitu.isux.us/)：腾讯旗下免费的图片压缩工具。
-5. [百度 • 图说](http://tushuo.baidu.com/)：在线制作美观的数据图表。
+5. [BDP](https://me.bdp.cn/)：数据可视化分析神器，在线制作美观的数据图表。
 
 ## 二、素材篇
 
