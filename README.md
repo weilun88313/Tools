@@ -154,10 +154,8 @@
 ### 配乐素材库
 
 1. [Marmoset](https://www.marmosetmusic.com/)：最强大的配乐工具，它能根据你的视频配乐所要表达的情绪、能量、长度、风格、是否带人声、等要素，直接筛选后推送对应的配乐。
-2. [Musicbed](https://www.musicbed.com/)：纯粹的配乐素材库。
-3. [Song Freedom](http://www.songfreedom.com/home/library)：纯粹的配乐素材库。
-4. [Free Music Archive](http://freemusicarchive.org/)：纯粹的配乐素材库。
-5. [Audiosocket](https://www.audiosocket.com/)：纯粹的配乐素材库。
+2. [爱给网](http://www.aigei.com/)：这个网站除了音效素材还有平面、视频素材以及相关设计教程，但我用得最多的还是里面的音效素材。
+
 
 ## 三、课程篇
 
