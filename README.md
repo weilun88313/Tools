@@ -70,6 +70,7 @@
 1. [即搜](https://deepso.io/)：自定义的聚合搜索工具。
 2. [虫部落 • 快搜](http://search.chongbuluo.com/)：常用网站集合搜索引擎。
 3. [龙轩导航](http://ilxdh.com/)：资源类细分推荐的网站导航
+4. [1258主页](https://www.hao1258.com/)：非常惊艳的主页，我个人正在使用中。
 
 ### 公众号辅助
 
@@ -133,6 +134,7 @@
 2. [Gratisography](http://www.gratisography.com/)：很有趣的摄影师，作品大胆有趣，容易抓人眼球。
 3. [Pexels](https://www.pexels.com/)：免费可商用高清图库。
 4. [stocksnap](https://stocksnap.io/)：多名摄影师组成的摄影图片素材库，随意使用无需经过授权。
+5. [Pakutaso](www.pakutaso.com)：日本出品的高质量的无版权图片平台，我经常用里面的人物素材，毕竟都是亚洲人。
 
 ### 视频素材库
 
@@ -140,7 +142,6 @@
 2. [Pexels](http://videos.pexels.com/)：免费可商用视频库。
 3. [Wedistill](http://wedistill.io/)：技术服务公司Create The Bridge的子项目，每10天会上架10段视频，全是免费高清的广告素材。
 4. [Videovo](http://www.videvo.net/)：庞大的素材库，有超过3000的视频素材，除了高清视频素材还有动画素材，相对其他素材站比较好的一点是，你可以根据素材关键字和热门度进行检索。
-5. [Coverr](http://coverr.co/)：Covers 通常每周会上架7个新的视频，视频的分类会比Pexels稍微少一点。
 
 ### 设计灵感库
 
