@@ -16,10 +16,6 @@
 2. [cloudconvert](https://cloudconvert.com/)：支持更多的格式转换，但稳定性稍差。
 3. [PDF my url](http://pdfmyurl.com/)：有了它，任何网页都可以无失真保存为PDF。
 
-### 电子书资源库
-
-1. [鸠摩搜索](https://www.jiumodiary.com/)：最全的电子书资源站。
-
 ### 白噪音工具
 
 1. [Defonic](http://defonic.com/)：在线版的白噪音生成工具，能让自己更容易专注。
@@ -124,6 +120,7 @@
 4. [智图](http://zhitu.isux.us/)：腾讯旗下免费的图片压缩工具。
 5. [BDP](https://me.bdp.cn/)：数据可视化分析神器，在线制作美观的数据图表。
 
+
 ## 二、素材篇
 
 ### 图标资源库
@@ -163,3 +160,9 @@
 2. [跟两米青年学拍视频](https://study.163.com/course/introduction.htm?courseId=1003789010)：跟两米青年学拍视频。新媒体入门拍摄短视频的基础知识，简练有趣。
 3. [我懂个P【设计大神阿文带你飞】](https://study.163.com/course/courseMain.htm?courseId=1003998027)：著名网黄Simon开发的PPT图文系列教程，每一页都是精品。
 4. [The Bezier Game】](http://bezier.method.ac/)：刚开始学PS时，总是很难掌握好钢笔工具，这个游戏能帮你更快地上手。
+
+
+## 四、资源下载
+
+1.[鸠摩搜索](https://www.jiumodiary.com/)：最全的电子书资源站。
+2.[CiLiBaBa](http://heybay.com/)：迅雷磁力下载站。
