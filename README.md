@@ -14,7 +14,8 @@
 
 1. [Smallpdf](https://smallpdf.com)：十分好用的PDF格式转换工具。
 2. [cloudconvert](https://cloudconvert.com/)：支持更多的格式转换，但稳定性稍差。
-3. [PDF my url](http://pdfmyurl.com/)：有了它，任何网页都可以无失真保存为PDF。
+3. [PDF.io](https://pdf.io/tw/)：台湾出品的PDF在线转换工具，功能比SmallPDF强大。
+4. [media.io](media.io/zh)：Media.io是一个支持在线音频格式转换的工具。
 
 ### 白噪音工具
 
@@ -127,6 +128,7 @@
 ### 图标资源库
 
 1. [iconfont](http://www.iconfont.cn/)：阿里出品的图标库。
+2. [FlatIcon](https://www.flaticon.com/)：全网最大的图标类素材网站。
 
 ### 图片资源库
 
