@@ -129,6 +129,7 @@
 
 1. [iconfont](http://www.iconfont.cn/)：阿里出品的图标库。
 2. [FlatIcon](https://www.flaticon.com/)：全网最大的图标类素材网站。
+3. [60logo](http://www.60logo.com/)：10W+品牌矢量LOGO免费下载。
 
 ### 图片资源库
 
