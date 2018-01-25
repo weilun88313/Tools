@@ -135,7 +135,7 @@
 
 1. [Unslpash](https://unsplash.com/)：大量高清免费商用图片。
 2. [Gratisography](http://www.gratisography.com/)：很有趣的摄影师，作品大胆有趣，容易抓人眼球。
-3. [Pexels](https://www.pexels.com/)：免费可商用高清图库。
+3. [stickpng](http://www.stickpng.com/)：免费免抠素材。
 4. [stocksnap](https://stocksnap.io/)：多名摄影师组成的摄影图片素材库，随意使用无需经过授权。
 5. [Pakutaso](www.pakutaso.com)：日本出品的高质量的无版权图片平台，我经常用里面的人物素材，毕竟都是亚洲人。
 
