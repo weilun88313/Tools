@@ -164,7 +164,7 @@
 1. [doyoudo](http://www.doyoudo.com/)：国内最精致的设计类视频教程网站之一。
 2. [跟两米青年学拍视频](https://study.163.com/course/introduction.htm?courseId=1003789010)：跟两米青年学拍视频。新媒体入门拍摄短视频的基础知识，简练有趣。
 3. [我懂个P【设计大神阿文带你飞】](https://study.163.com/course/courseMain.htm?courseId=1003998027)：著名网黄Simon开发的PPT图文系列教程，每一页都是精品。
-4. [The Bezier Game】](http://bezier.method.ac/)：刚开始学PS时，总是很难掌握好钢笔工具，这个游戏能帮你更快地上手。
+4. [The Bezier Game](http://bezier.method.ac/)：刚开始学PS时，总是很难掌握好钢笔工具，这个游戏能帮你更快地上手。
 
 
 ## 四、资源下载
