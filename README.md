@@ -62,6 +62,12 @@
 4. [Powtoon](http://www.powtoon.com/)：非常强大的在线动画视频制作工具，就像动画版的PPT工具。
 5. [爱剪辑](http://www.aijianji.com/)：傻瓜式视频剪辑工具。
 
+### 视频解析下载
+
+1. [Video-Get](https://video-get.com/)：支持常见的视频门户网站的视频下载。
+2. [小视频下载](http://downfi.com/video/)：除了常见门户，还支持公众号、快手、开眼等渠道视频下载。
+3. [VIP视频解析](http://vip.seofangfa.com/)：字面意思，不做解释。
+
 ### 屏幕录制
 
 1. [Apowersoft](https://www.apowersoft.com/)：在线录屏工具，轻量级免安装
