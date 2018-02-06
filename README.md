@@ -10,6 +10,11 @@
 
 ## 一、工具篇
 
+### 文档下载
+
+1. [嗨文库](http://www.hiwenku.com/)：可以直接下载百度文库中需要下载券的docx文档。
+2. [冰点文库](http://www.bingdian001.com/?p=30)：无需积分就可以自由下载百度、豆丁、丁香、MBALib、道客巴巴、Book118等文库文档。
+
 ### 格式转换
 
 1. [Smallpdf](https://smallpdf.com)：十分好用的PDF格式转换工具。
