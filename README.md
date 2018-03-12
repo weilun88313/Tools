@@ -19,12 +19,12 @@
 
 1. [Smallpdf](https://smallpdf.com)：十分好用的PDF格式转换工具。
 2. [cloudconvert](https://cloudconvert.com/)：支持更多的格式转换，但稳定性稍差。
-3. [PDF.io](https://pdf.io/tw/)：台湾出品的PDF在线转换工具，功能比SmallPDF强大。
+3. [LightPDF](https://lightpdf.com/zh/)：免费PDF工具：无需注册&功能强大，无使用限制。
 4. [media.io](media.io/zh)：Media.io是一个支持在线音频格式转换的工具。
 
 ### 白噪音工具
 
-1. [Defonic](http://defonic.com/)：在线版的白噪音生成工具，能让自己更容易专注。
+1. [rainyscope](http://rainyscope.com/)：在线版的白噪音生成工具，能让自己更容易专注。
 
 ### 数据指数
 
