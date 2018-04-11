@@ -182,3 +182,4 @@
 
 1. [鸠摩搜索](https://www.jiumodiary.com/)：最全的电子书资源站。
 2. [CiLiBaBa](http://heybay.com/)：迅雷磁力下载站。
+2. [Library Genesis](http://gen.lib.rus.ec/)：最全的英文电子书资源站。
